@@ -1,0 +1,12 @@
+D:\Suhel\eCommers\eCommers.Core\bin\Debug\net8.0\eCommers.Core.deps.json
+D:\Suhel\eCommers\eCommers.Core\bin\Debug\net8.0\eCommers.Core.dll
+D:\Suhel\eCommers\eCommers.Core\bin\Debug\net8.0\eCommers.Core.pdb
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.csproj.AssemblyReference.cache
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.AssemblyInfoInputs.cache
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.AssemblyInfo.cs
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.csproj.CoreCompileInputs.cache
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.dll
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\refint\eCommers.Core.dll
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.pdb
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\ref\eCommers.Core.dll

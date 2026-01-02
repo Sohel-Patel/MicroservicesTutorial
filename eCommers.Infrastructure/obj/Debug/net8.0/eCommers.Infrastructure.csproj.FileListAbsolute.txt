@@ -1,0 +1,15 @@
+D:\Suhel\eCommers\eCommers.Infrastructure\bin\Debug\net8.0\eCommers.Infrastructure.deps.json
+D:\Suhel\eCommers\eCommers.Infrastructure\bin\Debug\net8.0\eCommers.Infrastructure.dll
+D:\Suhel\eCommers\eCommers.Infrastructure\bin\Debug\net8.0\eCommers.Infrastructure.pdb
+D:\Suhel\eCommers\eCommers.Infrastructure\bin\Debug\net8.0\eCommers.Core.dll
+D:\Suhel\eCommers\eCommers.Infrastructure\bin\Debug\net8.0\eCommers.Core.pdb
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.csproj.AssemblyReference.cache
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.AssemblyInfoInputs.cache
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.AssemblyInfo.cs
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.A9439CC5.Up2Date
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.dll
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\refint\eCommers.Infrastructure.dll
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.pdb
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\ref\eCommers.Infrastructure.dll
