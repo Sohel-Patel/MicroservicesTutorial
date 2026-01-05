@@ -5,6 +5,7 @@ D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\eCommers.Api.deps.json
 D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\eCommers.Api.runtimeconfig.json
 D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\eCommers.Api.dll
 D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\eCommers.Api.pdb
+D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\AutoMapper.dll
 D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\eCommers.Core.dll
 D:\Suhel\eCommers\eCommers.Api\bin\Debug\net8.0\eCommers.Infrastructure.dll
@@ -16,6 +17,7 @@ D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\eCommers.Api.AssemblyInfoInputs.
 D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\eCommers.Api.AssemblyInfo.cs
 D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\eCommers.Api.csproj.CoreCompileInputs.cache
 D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\eCommers.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\eCommers.Api.sourcelink.json
 D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\Suhel\eCommers\eCommers.Api\obj\Debug\net8.0\staticwebassets\msbuild.eCommers.Api.Microsoft.AspNetCore.StaticWebAssets.props

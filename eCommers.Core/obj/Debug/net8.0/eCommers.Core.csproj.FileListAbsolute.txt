@@ -6,6 +6,7 @@ D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.GeneratedMSBuildE
 D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.AssemblyInfoInputs.cache
 D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.AssemblyInfo.cs
 D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.csproj.CoreCompileInputs.cache
+D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.sourcelink.json
 D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.dll
 D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\refint\eCommers.Core.dll
 D:\Suhel\eCommers\eCommers.Core\obj\Debug\net8.0\eCommers.Core.pdb

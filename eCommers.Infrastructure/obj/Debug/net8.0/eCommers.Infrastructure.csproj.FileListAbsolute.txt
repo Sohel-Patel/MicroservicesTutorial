@@ -8,6 +8,7 @@ D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructu
 D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.AssemblyInfoInputs.cache
 D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.AssemblyInfo.cs
 D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.sourcelink.json
 D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.A9439CC5.Up2Date
 D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\eCommers.Infrastructure.dll
 D:\Suhel\eCommers\eCommers.Infrastructure\obj\Debug\net8.0\refint\eCommers.Infrastructure.dll
