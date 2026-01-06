@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj": {}
+    "d:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj": {}
   },
   "projects": {
-    "D:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj": {
+    "d:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj",
+        "projectUniqueName": "d:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj",
         "projectName": "eCommers.Api",
-        "projectPath": "D:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj",
+        "projectPath": "d:\\Suhel\\eCommers\\eCommers.Api\\eCommers.Api.csproj",
         "packagesPath": "C:\\Users\\differenz80\\.nuget\\packages\\",
-        "outputPath": "D:\\Suhel\\eCommers\\eCommers.Api\\obj\\",
+        "outputPath": "d:\\Suhel\\eCommers\\eCommers.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\differenz80\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -29,8 +29,8 @@
               "D:\\Suhel\\eCommers\\eCommers.Core\\eCommers.Core.csproj": {
                 "projectPath": "D:\\Suhel\\eCommers\\eCommers.Core\\eCommers.Core.csproj"
               },
-              "D:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj": {
-                "projectPath": "D:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj"
+              "d:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj": {
+                "projectPath": "d:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj"
               }
             }
           }
@@ -53,6 +53,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
             }
           },
           "imports": [
@@ -121,6 +125,10 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[10.0.1, )"
@@ -146,14 +154,14 @@
         }
       }
     },
-    "D:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj": {
+    "d:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj",
+        "projectUniqueName": "d:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj",
         "projectName": "eCommers.Infrastructure",
-        "projectPath": "D:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj",
+        "projectPath": "d:\\Suhel\\eCommers\\eCommers.Infrastructure\\eCommers.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\differenz80\\.nuget\\packages\\",
-        "outputPath": "D:\\Suhel\\eCommers\\eCommers.Infrastructure\\obj\\",
+        "outputPath": "d:\\Suhel\\eCommers\\eCommers.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\differenz80\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -189,9 +197,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

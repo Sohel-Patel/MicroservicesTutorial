@@ -37,7 +37,7 @@ namespace eCommers.Core.Services
             //     Password = registerRequest.Password,
             //     PersonName = registerRequest.PersonName
             // };
-            
+           
             ApplicationUser newUser = _mapper.Map<RegisterRequest,ApplicationUser>(registerRequest);
 
             ApplicationUser? user = await _userRepository.AddUser(newUser);

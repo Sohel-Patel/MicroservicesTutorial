@@ -22,7 +22,7 @@ namespace eCommers.Api.Controllers
             {
                 return BadRequest("Invalid registration data");
             }
-
+            
             AuthenticationResponse? authenticationResponse = await _userService.Register(registerRequest);
 
             if (authenticationResponse == null || authenticationResponse.Success == false)

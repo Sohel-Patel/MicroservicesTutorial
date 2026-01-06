@@ -1,4 +1,5 @@
 using eCommers.Core.RepositoryContracts;
+using eCommers.Infrastructure.DbContext;
 using eCommers.InfraStructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -11,6 +12,7 @@ namespace eCommers.Infrastructure
             //TO DO: Add Services to IOc container
             //infrastructure often include daTa access, caching and other low level components.
             service.AddTransient<IUserRepository,UserRepository>();
+            service.AddTransient<DapperDbContext>();
             return service;
         }
     }
